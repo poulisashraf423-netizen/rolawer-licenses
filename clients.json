@@ -34,6 +34,11 @@
             "type": "monthly",
             "used": true,
             "used_by": "office_00862f"
+        },
+        "RO-MONTH-74697364": {
+            "type": "monthly",
+            "used": false,
+            "used_by": null
         }
     }
 }
