@@ -19,5 +19,11 @@
         "status": "active",
         "expiry_date": "2026-11-28",
         "devices": []
+    },
+    "office_664dd4": {
+        "office_name": "مكتب بولس",
+        "status": "active",
+        "expiry_date": "2026-11-28",
+        "devices": []
     }
 }
