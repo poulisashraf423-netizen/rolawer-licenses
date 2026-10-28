@@ -13,5 +13,11 @@
         "status": "active",
         "expiry_date": "2026-11-28",
         "devices": []
+    },
+    "office_95c714": {
+        "office_name": "office_00862f",
+        "status": "active",
+        "expiry_date": "2026-11-28",
+        "devices": []
     }
 }
