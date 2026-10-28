@@ -1,35 +1,4 @@
 {
-    "ahmed_osman": {
-        "office_name": "مكتب المحامي أحمد عثمان",
-        "status": "active",
-        "expiry_date": "2026-11-28",
-        "devices": [
-            "192.168.1.10",
-            "192.168.1.5"
-        ]
-    },
-    "office_9ad0ee": {
-        "office_name": "office_00862f",
-        "status": "active",
-        "expiry_date": "2026-11-28",
-        "devices": []
-    },
-    "office_95c714": {
-        "office_name": "office_00862f",
-        "status": "active",
-        "expiry_date": "2026-11-28",
-        "devices": []
-    },
-    "office_664dd4": {
-        "office_name": "مكتب بولس",
-        "status": "active",
-        "expiry_date": "2026-11-28",
-        "devices": []
-    },
-    "office_32de5c": {
-        "office_name": "مكتب بولس, office_00862f",
-        "status": "active",
-        "expiry_date": "2026-11-28",
-        "devices": []
-    }
+  "offices": {},
+  "keys": {}
 }
