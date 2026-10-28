@@ -1,0 +1,8 @@
+{
+  "ahmed_osman": {
+    "office_name": "مكتب المحامي أحمد عثمان",
+    "status": "active",
+    "expiry_date": "2026-11-28",
+    "devices": ["192.168.1.10", "192.168.1.5"]
+  }
+}
