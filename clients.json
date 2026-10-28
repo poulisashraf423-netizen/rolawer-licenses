@@ -5,6 +5,11 @@
             "type": "monthly",
             "used": false,
             "used_by": null
+        },
+        "RO-MONTH-1A9B5B06": {
+            "type": "monthly",
+            "used": false,
+            "used_by": null
         }
     }
 }
