@@ -1,4 +1,10 @@
 {
-  "offices": {},
-  "keys": {}
+    "offices": {},
+    "keys": {
+        "RO-MONTH-C092D6A0": {
+            "type": "monthly",
+            "used": false,
+            "used_by": null
+        }
+    }
 }
