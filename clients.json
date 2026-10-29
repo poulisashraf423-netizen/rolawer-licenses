@@ -22,13 +22,26 @@
                 "239.255.255.250",
                 "255.255.255.255"
             ]
+        },
+        "office_fa913d": {
+            "office_name": "مكتب محامي (office_fa913d)",
+            "status": "active",
+            "activated_at": "2026-10-29 17:23:52",
+            "expiry_date": "2026-11-28 17:23:52",
+            "devices": [
+                "192.168.56.1",
+                "239.255.255.250",
+                "192.168.1.15",
+                "192.168.1.1",
+                "239.255.102.18"
+            ]
         }
     },
     "keys": {
         "RO-MONTH-C092D6A0": {
             "type": "monthly",
-            "used": false,
-            "used_by": null
+            "used": true,
+            "used_by": "office_fa913d"
         },
         "RO-MONTH-1A9B5B06": {
             "type": "monthly",
