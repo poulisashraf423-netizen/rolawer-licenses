@@ -196,6 +196,11 @@
             "type": "yearly",
             "used": true,
             "used_by": "office_2ded0e"
+        },
+        "RO-MONTH-CC160A3E": {
+            "type": "monthly",
+            "used": false,
+            "used_by": null
         }
     }
 }
