@@ -126,6 +126,19 @@
                 "192.168.1.1",
                 "239.255.102.18"
             ]
+        },
+        "office_2ded0e": {
+            "office_name": "مكتب محامي (office_2ded0e)",
+            "status": "active",
+            "activated_at": "2026-10-31 00:17:01",
+            "expiry_date": "2027-10-31 00:17:01",
+            "devices": [
+                "192.168.56.1",
+                "239.255.255.250",
+                "192.168.1.15",
+                "192.168.1.1",
+                "239.255.102.18"
+            ]
         }
     },
     "keys": {
@@ -181,8 +194,8 @@
         },
         "RO-YEAR-9ACB1985": {
             "type": "yearly",
-            "used": false,
-            "used_by": null
+            "used": true,
+            "used_by": "office_2ded0e"
         }
     }
 }
