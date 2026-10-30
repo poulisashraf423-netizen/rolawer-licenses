@@ -70,6 +70,11 @@
             "type": "monthly",
             "used": true,
             "used_by": "office_fa913d"
+        },
+        "RO-MONTH-4F9703BA": {
+            "type": "monthly",
+            "used": false,
+            "used_by": null
         }
     }
 }
