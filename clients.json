@@ -48,6 +48,19 @@
                 "192.168.1.1",
                 "239.255.102.18"
             ]
+        },
+        "office_e2ca03": {
+            "office_name": "مكتب محامي (office_e2ca03)",
+            "status": "active",
+            "activated_at": "2026-10-30 03:08:44",
+            "expiry_date": "2026-11-29 03:08:44",
+            "devices": [
+                "192.168.56.1",
+                "239.255.255.250",
+                "192.168.1.15",
+                "192.168.1.1",
+                "239.255.102.18"
+            ]
         }
     },
     "keys": {
@@ -73,8 +86,8 @@
         },
         "RO-MONTH-4F9703BA": {
             "type": "monthly",
-            "used": false,
-            "used_by": null
+            "used": true,
+            "used_by": "office_e2ca03"
         }
     }
 }
