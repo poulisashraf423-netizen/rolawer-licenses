@@ -178,6 +178,11 @@
             "type": "yearly",
             "used": true,
             "used_by": "office_6f6772"
+        },
+        "RO-YEAR-9ACB1985": {
+            "type": "yearly",
+            "used": false,
+            "used_by": null
         }
     }
 }
