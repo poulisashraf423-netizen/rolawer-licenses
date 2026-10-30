@@ -160,6 +160,11 @@
             "type": "monthly",
             "used": true,
             "used_by": "office_2058b8"
+        },
+        "RO-YEAR-8FBB4972": {
+            "type": "yearly",
+            "used": false,
+            "used_by": null
         }
     }
 }
