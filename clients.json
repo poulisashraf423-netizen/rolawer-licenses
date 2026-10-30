@@ -88,6 +88,11 @@
             "type": "monthly",
             "used": true,
             "used_by": "office_e2ca03"
+        },
+        "RO-MONTH-6119B107": {
+            "type": "monthly",
+            "used": false,
+            "used_by": null
         }
     }
 }
