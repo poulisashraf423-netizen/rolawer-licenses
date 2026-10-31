@@ -14,6 +14,19 @@
         "ROLAWER-1234-XXXX": {
             "type": "monthly",
             "used": false
+        },
+        "ROLAWER-07J9-MIQB-M9R8": {
+            "type": "monthly",
+            "used": false,
+            "created_at": "2026-10-31 19:08:54",
+            "used_by": "",
+            "office_id": "office_1fe85dd5",
+            "note": "مكتب محامي - poulis",
+            "days": 30,
+            "price": "300",
+            "max_devices": 10,
+            "created_by": "key_generator_desktop",
+            "db_name": "rolawer_office_1fe85dd5.db"
         }
     }
 }
