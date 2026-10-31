@@ -1,12 +1,7 @@
 {
-    "pending_devices": {
-        "office_f5fae1": {
-            "device_name": "DESKTOP-RPS66EU",
-            "first_seen": "2026-10-31 18:01:15",
-            "last_seen": "2026-10-31 18:01:15",
-            "status": "pending",
-            "ip": "",
-            "platform": "Windows-10-10.0.19045-SP0"
-        }
-    }
+  "offices": {},
+  "pending_devices": {},
+  "keys": {
+    "ROLAWER-1234-XXXX": {"type": "monthly", "used": false}
+  }
 }
