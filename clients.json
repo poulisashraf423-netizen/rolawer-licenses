@@ -286,6 +286,11 @@
             "type": "monthly",
             "used": true,
             "used_by": "office_581325"
+        },
+        "RO-YEAR-DB475340": {
+            "type": "yearly",
+            "used": false,
+            "used_by": null
         }
     }
 }
