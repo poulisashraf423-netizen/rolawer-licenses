@@ -1,6 +1,12 @@
-:: محتوى الملف:
 {
-  "keys": {},
-  "offices": {},
-  "pending_devices": {}
+    "keys": {},
+    "offices": {},
+    "pending_devices": {
+        "temp_dev_f5fae135": {
+            "device_id": "dev_f5fae135",
+            "device_name": "DESKTOP-RPS66EU",
+            "first_seen": "2026-10-31 20:28:38",
+            "status": "pending"
+        }
+    }
 }
