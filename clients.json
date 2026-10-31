@@ -1,15 +1,25 @@
 {
-    "offices": {},
-    "pending_devices": {
-        "office_f5fae1": {
-            "device_name": "DESKTOP-RPS66EU",
-            "first_seen": "2026-10-31 18:26:04",
-            "last_seen": "2026-10-31 18:26:04",
-            "status": "pending",
-            "ip": "",
-            "platform": "Windows-10-10.0.19045-SP0"
+    "offices": {
+        "office_1fe85dd5": {
+            "office_name": "مكتب محامي - poulis",
+            "office_id": "office_1fe85dd5",
+            "status": "active",
+            "activated_at": "2026-10-31 19:10:07",
+            "expiry_date": "2026-11-30 19:10:07",
+            "activation_key": "ROLAWER-07J9-MIQB-M9R8",
+            "key_type": "monthly",
+            "devices": {
+                "dev_f5fae135": {
+                    "device_name": "DESKTOP-RPS66EU",
+                    "activated_at": "2026-10-31 19:10:07",
+                    "is_main": true
+                }
+            },
+            "max_devices": 10,
+            "devices_count": 1
         }
     },
+    "pending_devices": {},
     "keys": {
         "ROLAWER-1234-XXXX": {
             "type": "monthly",
@@ -17,16 +27,18 @@
         },
         "ROLAWER-07J9-MIQB-M9R8": {
             "type": "monthly",
-            "used": false,
+            "used": true,
             "created_at": "2026-10-31 19:08:54",
-            "used_by": "",
+            "used_by": "office_1fe85dd5",
             "office_id": "office_1fe85dd5",
             "note": "مكتب محامي - poulis",
             "days": 30,
             "price": "300",
             "max_devices": 10,
             "created_by": "key_generator_desktop",
-            "db_name": "rolawer_office_1fe85dd5.db"
+            "db_name": "rolawer_office_1fe85dd5.db",
+            "used_at": "2026-10-31 19:10:07",
+            "first_device": "dev_f5fae135"
         }
     }
 }
