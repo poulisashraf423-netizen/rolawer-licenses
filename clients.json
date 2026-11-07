@@ -25,6 +25,19 @@
       "max_devices": 1,
       "office_name": "",
       "note": ""
+    },
+    "ROLAWER-VCEJ-UJJK-9FYA": {
+      "office_id": "office_efab7c49",
+      "type": "daily",
+      "status": "unused",
+      "created_at": "2026-11-08T00:52:29.763494",
+      "used_at": null,
+      "used_by_device": null,
+      "plan": "Single",
+      "clients_count": 50,
+      "max_devices": 1,
+      "office_name": "",
+      "note": ""
     }
   },
   "offices": {
@@ -49,6 +62,17 @@
       "plan": "Single",
       "office_name": "",
       "key": "ROLAWER-CYKC-GDHN-PTW6"
+    },
+    "office_efab7c49": {
+      "expiry_date": "pending",
+      "type": "daily",
+      "status": "pending",
+      "devices": [],
+      "max_devices": 1,
+      "clients_count": 50,
+      "plan": "Single",
+      "office_name": "",
+      "key": "ROLAWER-VCEJ-UJJK-9FYA"
     }
   }
 }
