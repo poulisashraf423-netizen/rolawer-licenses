@@ -1,13 +1,4 @@
 {
-  "keys": {
-    "ROLAWER-1D-A1B2-C3D4": {
-      "office_id": "office_day_01",
-      "type": "1_day"
-    },
-    "ROLAWER-LIFE-Z9Y8-X7W6": {
-      "office_id": "office_life_01",
-      "type": "lifetime"
-    }
-  },
+  "keys": {},
   "offices": {}
 }
