@@ -54,6 +54,19 @@
       "max_devices": 1,
       "office_name": "",
       "note": ""
+    },
+    "ROLAWER-QES2-W7WC-HQNJ": {
+      "office_id": "office_28e2ff69",
+      "type": "daily",
+      "status": "unused",
+      "created_at": "2026-11-14T02:46:16.814271",
+      "used_at": null,
+      "used_by_device": null,
+      "plan": "Single",
+      "clients_count": 50,
+      "max_devices": 1,
+      "office_name": "",
+      "note": ""
     }
   },
   "offices": {
@@ -100,6 +113,17 @@
       "plan": "Single",
       "office_name": "",
       "key": "ROLAWER-J9G4-94KM-4ZY2"
+    },
+    "office_28e2ff69": {
+      "expiry_date": "pending",
+      "type": "daily",
+      "status": "pending",
+      "devices": [],
+      "max_devices": 1,
+      "clients_count": 50,
+      "plan": "Single",
+      "office_name": "",
+      "key": "ROLAWER-QES2-W7WC-HQNJ"
     }
   }
 }
