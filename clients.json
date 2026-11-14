@@ -16,22 +16,6 @@
       "office_name": "",
       "note": " [تم التعليم يدوياً كمستخدم]"
     },
-    "ROLAWER-SGHF-YKNX-E7GA": {
-      "office_id": "office_635d0fca",
-      "type": "daily",
-      "status": "unused",
-      "created_at": "2026-11-14T03:23:58.865281",
-      "used_at": null,
-      "used_by_device": null,
-      "used_by_hwid": null,
-      "expires_at": null,
-      "plan": "Single",
-      "plan_key": "single",
-      "clients_count": 50,
-      "max_devices": 1,
-      "office_name": "",
-      "note": ""
-    },
     "ROLAWER-MA8J-KZJQ-EN9H": {
       "office_id": "office_5e584b43",
       "type": "daily",
@@ -61,18 +45,6 @@
       "plan_key": "single",
       "office_name": "",
       "key": "ROLAWER-Y6HA-5HGD-VVDC"
-    },
-    "office_635d0fca": {
-      "expiry_date": "pending",
-      "type": "daily",
-      "status": "pending",
-      "devices": [],
-      "max_devices": 1,
-      "clients_count": 50,
-      "plan": "Single",
-      "plan_key": "single",
-      "office_name": "",
-      "key": "ROLAWER-SGHF-YKNX-E7GA"
     },
     "office_5e584b43": {
       "expiry_date": "pending",
