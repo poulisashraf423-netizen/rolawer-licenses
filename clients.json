@@ -1,18 +1,5 @@
 {
   "keys": {
-    "ROLAWER-VTT2-XA4H-MJFK": {
-      "office_id": "office_45f83207",
-      "type": "lifetime",
-      "status": "unused",
-      "created_at": "2026-11-14T02:51:09.169838",
-      "used_at": null,
-      "used_by_device": null,
-      "plan": "Single",
-      "clients_count": 50,
-      "max_devices": 1,
-      "office_name": "",
-      "note": ""
-    },
     "ROLAWER-NRSV-FHAC-5MGT": {
       "office_id": "office_d2049771",
       "type": "daily",
@@ -70,17 +57,6 @@
     }
   },
   "offices": {
-    "office_45f83207": {
-      "expiry_date": "pending",
-      "type": "lifetime",
-      "status": "pending",
-      "devices": [],
-      "max_devices": 1,
-      "clients_count": 50,
-      "plan": "Single",
-      "office_name": "",
-      "key": "ROLAWER-VTT2-XA4H-MJFK"
-    },
     "office_d2049771": {
       "expiry_date": "pending",
       "type": "daily",
