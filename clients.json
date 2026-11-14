@@ -1,18 +1,5 @@
 {
   "keys": {
-    "ROLAWER-6B4C-N4QF-QUMZ": {
-      "office_id": "office_1a5539e9",
-      "type": "daily",
-      "status": "unused",
-      "created_at": "2026-11-14T03:00:18.654407",
-      "used_at": null,
-      "used_by_device": null,
-      "plan": "Single",
-      "clients_count": 50,
-      "max_devices": 1,
-      "office_name": "",
-      "note": ""
-    },
     "ROLAWER-GNBH-6CSB-W9JS": {
       "office_id": "office_8389568c",
       "type": "daily",
@@ -44,17 +31,6 @@
     }
   },
   "offices": {
-    "office_1a5539e9": {
-      "expiry_date": "pending",
-      "type": "daily",
-      "status": "pending",
-      "devices": [],
-      "max_devices": 1,
-      "clients_count": 50,
-      "plan": "Single",
-      "office_name": "",
-      "key": "ROLAWER-6B4C-N4QF-QUMZ"
-    },
     "office_8389568c": {
       "expiry_date": "pending",
       "type": "daily",
