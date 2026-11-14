@@ -1,18 +1,5 @@
 {
   "keys": {
-    "ROLAWER-NRSV-FHAC-5MGT": {
-      "office_id": "office_d2049771",
-      "type": "daily",
-      "status": "unused",
-      "created_at": "2026-11-14T02:51:14.528632",
-      "used_at": null,
-      "used_by_device": null,
-      "plan": "Single",
-      "clients_count": 50,
-      "max_devices": 1,
-      "office_name": "",
-      "note": ""
-    },
     "ROLAWER-6B4C-N4QF-QUMZ": {
       "office_id": "office_1a5539e9",
       "type": "daily",
@@ -57,17 +44,6 @@
     }
   },
   "offices": {
-    "office_d2049771": {
-      "expiry_date": "pending",
-      "type": "daily",
-      "status": "pending",
-      "devices": [],
-      "max_devices": 1,
-      "clients_count": 50,
-      "plan": "Single",
-      "office_name": "",
-      "key": "ROLAWER-NRSV-FHAC-5MGT"
-    },
     "office_1a5539e9": {
       "expiry_date": "pending",
       "type": "daily",
