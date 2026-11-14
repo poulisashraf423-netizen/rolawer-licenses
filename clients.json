@@ -1,4 +1,34 @@
 {
-  "keys": {},
-  "offices": {}
+  "keys": {
+    "ROLAWER-Y6HA-5HGD-VVDC": {
+      "office_id": "office_ab7e53c7",
+      "type": "daily",
+      "status": "unused",
+      "created_at": "2026-11-14T03:20:08.733000",
+      "used_at": null,
+      "used_by_device": null,
+      "used_by_hwid": null,
+      "expires_at": null,
+      "plan": "Single",
+      "plan_key": "single",
+      "clients_count": 50,
+      "max_devices": 1,
+      "office_name": "",
+      "note": ""
+    }
+  },
+  "offices": {
+    "office_ab7e53c7": {
+      "expiry_date": "pending",
+      "type": "daily",
+      "status": "pending",
+      "devices": [],
+      "max_devices": 1,
+      "clients_count": 50,
+      "plan": "Single",
+      "plan_key": "single",
+      "office_name": "",
+      "key": "ROLAWER-Y6HA-5HGD-VVDC"
+    }
+  }
 }
