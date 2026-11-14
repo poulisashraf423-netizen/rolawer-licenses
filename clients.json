@@ -17,7 +17,7 @@
     "ROLAWER-CYKC-GDHN-PTW6": {
       "office_id": "office_c9ccccc1",
       "type": "daily",
-      "status": "unused",
+      "status": "revoked",
       "created_at": "2026-11-08T00:38:26.195977",
       "used_at": null,
       "used_by_device": null,
@@ -25,7 +25,8 @@
       "clients_count": 50,
       "max_devices": 1,
       "office_name": "",
-      "note": ""
+      "note": "",
+      "_prev_status": "unused"
     },
     "ROLAWER-VCEJ-UJJK-9FYA": {
       "office_id": "office_efab7c49",
@@ -54,9 +55,9 @@
       "key": "ROLAWER-H7XG-3MDC-U2V6"
     },
     "office_c9ccccc1": {
-      "expiry_date": "pending",
+      "expiry_date": "2000-01-01",
       "type": "daily",
-      "status": "pending",
+      "status": "revoked",
       "devices": [],
       "max_devices": 1,
       "clients_count": 50,
