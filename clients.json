@@ -51,6 +51,22 @@
       "max_devices": 1,
       "office_name": "",
       "note": ""
+    },
+    "ROLAWER-C9ZA-PSSH-28XS": {
+      "office_id": "office_1780a912",
+      "type": "daily",
+      "status": "unused",
+      "created_at": "2026-11-14T03:19:06.579127",
+      "used_at": null,
+      "used_by_device": null,
+      "used_by_hwid": null,
+      "expires_at": null,
+      "plan": "Single",
+      "plan_key": "single",
+      "clients_count": 50,
+      "max_devices": 1,
+      "office_name": "",
+      "note": ""
     }
   },
   "offices": {
@@ -97,6 +113,18 @@
       "plan": "Single",
       "office_name": "",
       "key": "ROLAWER-GNBH-6CSB-W9JS"
+    },
+    "office_1780a912": {
+      "expiry_date": "pending",
+      "type": "daily",
+      "status": "pending",
+      "devices": [],
+      "max_devices": 1,
+      "clients_count": 50,
+      "plan": "Single",
+      "plan_key": "single",
+      "office_name": "",
+      "key": "ROLAWER-C9ZA-PSSH-28XS"
     }
   }
 }
