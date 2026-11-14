@@ -3,7 +3,7 @@
     "ROLAWER-H7XG-3MDC-U2V6": {
       "office_id": "office_b4701043",
       "type": "lifetime",
-      "status": "unused",
+      "status": "revoked",
       "created_at": "2026-11-08T00:37:31.855810",
       "used_at": null,
       "used_by_device": null,
@@ -11,7 +11,8 @@
       "clients_count": 50,
       "max_devices": 1,
       "office_name": "",
-      "note": ""
+      "note": "",
+      "_prev_status": "unused"
     },
     "ROLAWER-CYKC-GDHN-PTW6": {
       "office_id": "office_c9ccccc1",
@@ -42,9 +43,9 @@
   },
   "offices": {
     "office_b4701043": {
-      "expiry_date": "pending",
+      "expiry_date": "2000-01-01",
       "type": "lifetime",
-      "status": "pending",
+      "status": "revoked",
       "devices": [],
       "max_devices": 1,
       "clients_count": 50,
