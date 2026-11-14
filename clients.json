@@ -3,25 +3,25 @@
     "ROLAWER-Y6HA-5HGD-VVDC": {
       "office_id": "office_ab7e53c7",
       "type": "daily",
-      "status": "unused",
+      "status": "used",
       "created_at": "2026-11-14T03:20:08.733000",
-      "used_at": null,
-      "used_by_device": null,
-      "used_by_hwid": null,
-      "expires_at": null,
+      "used_at": "2026-11-14T03:23:32.276215",
+      "used_by_device": "manual-mark-by-admin",
+      "used_by_hwid": "manual-mark-by-admin",
+      "expires_at": "2026-11-15T03:23:32.276215",
       "plan": "Single",
       "plan_key": "single",
       "clients_count": 50,
       "max_devices": 1,
       "office_name": "",
-      "note": ""
+      "note": " [تم التعليم يدوياً كمستخدم]"
     }
   },
   "offices": {
     "office_ab7e53c7": {
-      "expiry_date": "pending",
+      "expiry_date": "2026-11-15T03:23:32.276215",
       "type": "daily",
-      "status": "pending",
+      "status": "active",
       "devices": [],
       "max_devices": 1,
       "clients_count": 50,
