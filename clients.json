@@ -3,18 +3,18 @@
     "ROLAWER-YNNJ-F5AA-TY3V": {
       "office_id": "office_53a001ed",
       "type": "daily",
-      "status": "unused",
+      "status": "used",
       "created_at": "2026-11-15T02:20:54.843985",
-      "used_at": null,
-      "used_by_device": null,
-      "used_by_hwid": null,
-      "expires_at": null,
+      "used_at": "2026-11-19T02:47:12.365151",
+      "used_by_device": "manual-mark-by-admin",
+      "used_by_hwid": "manual-mark-by-admin",
+      "expires_at": "2026-11-20T02:47:12.365151",
       "plan": "Single",
       "plan_key": "single",
       "clients_count": 50,
       "max_devices": 1,
       "office_name": "",
-      "note": ""
+      "note": " [تم التعليم يدوياً كمستخدم]"
     },
     "ROLAWER-MN6R-T94C-6HVS": {
       "office_id": "office_d4f5baf6",
@@ -51,9 +51,9 @@
   },
   "offices": {
     "office_53a001ed": {
-      "expiry_date": "pending",
+      "expiry_date": "2026-11-20T02:47:12.365151",
       "type": "daily",
-      "status": "pending",
+      "status": "active",
       "devices": [],
       "max_devices": 1,
       "clients_count": 50,
