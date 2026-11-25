@@ -1,21 +1,5 @@
 {
   "keys": {
-    "ROLAWER-MN6R-T94C-6HVS": {
-      "office_id": "office_d4f5baf6",
-      "type": "daily",
-      "status": "unused",
-      "created_at": "2026-11-18T01:51:13.994234",
-      "used_at": null,
-      "used_by_device": null,
-      "used_by_hwid": null,
-      "expires_at": null,
-      "plan": "Single",
-      "plan_key": "single",
-      "clients_count": 50,
-      "max_devices": 1,
-      "office_name": "",
-      "note": ""
-    },
     "ROLAWER-DMTW-3835-9FXH": {
       "office_id": "office_a6139724",
       "type": "daily",
@@ -34,18 +18,6 @@
     }
   },
   "offices": {
-    "office_d4f5baf6": {
-      "expiry_date": "pending",
-      "type": "daily",
-      "status": "pending",
-      "devices": [],
-      "max_devices": 1,
-      "clients_count": 50,
-      "plan": "Single",
-      "plan_key": "single",
-      "office_name": "",
-      "key": "ROLAWER-MN6R-T94C-6HVS"
-    },
     "office_a6139724": {
       "expiry_date": "pending",
       "type": "daily",
