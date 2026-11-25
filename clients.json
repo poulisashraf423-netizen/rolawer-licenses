@@ -19,18 +19,18 @@
     "ROLAWER-MBHU-5SBH-UEMP": {
       "office_id": "office_153aa1e1",
       "type": "daily",
-      "status": "unused",
+      "status": "used",
       "created_at": "2026-11-25T22:00:43.427684",
-      "used_at": null,
-      "used_by_device": null,
-      "used_by_hwid": null,
-      "expires_at": null,
+      "used_at": "2026-11-25T22:01:09.165813",
+      "used_by_device": "manual-mark-by-admin",
+      "used_by_hwid": "manual-mark-by-admin",
+      "expires_at": "2026-11-26T22:01:09.165813",
       "plan": "Single",
       "plan_key": "single",
       "clients_count": 50,
       "max_devices": 1,
       "office_name": "",
-      "note": ""
+      "note": " [تم التعليم يدوياً كمستخدم]"
     }
   },
   "offices": {
@@ -47,9 +47,9 @@
       "key": "ROLAWER-9GWU-GS3R-HV6X"
     },
     "office_153aa1e1": {
-      "expiry_date": "pending",
+      "expiry_date": "2026-11-26T22:01:09.165813",
       "type": "daily",
-      "status": "pending",
+      "status": "active",
       "devices": [],
       "max_devices": 1,
       "clients_count": 50,
