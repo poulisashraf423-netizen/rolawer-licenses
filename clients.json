@@ -47,6 +47,22 @@
       "max_devices": 1,
       "office_name": "",
       "note": ""
+    },
+    "ROLAWER-C4D7-EQZ7-ZDSU": {
+      "office_id": "office_cca35add",
+      "type": "daily",
+      "status": "unused",
+      "created_at": "2026-11-26T01:07:42.172384",
+      "used_at": null,
+      "used_by_device": null,
+      "used_by_hwid": null,
+      "expires_at": null,
+      "plan": "Single",
+      "plan_key": "single",
+      "clients_count": 50,
+      "max_devices": 1,
+      "office_name": "",
+      "note": ""
     }
   },
   "offices": {
@@ -85,6 +101,18 @@
       "plan_key": "single",
       "office_name": "",
       "key": "ROLAWER-HF2S-GYAJ-24YB"
+    },
+    "office_cca35add": {
+      "expiry_date": "pending",
+      "type": "daily",
+      "status": "pending",
+      "devices": [],
+      "max_devices": 1,
+      "clients_count": 50,
+      "plan": "Single",
+      "plan_key": "single",
+      "office_name": "",
+      "key": "ROLAWER-C4D7-EQZ7-ZDSU"
     }
   }
 }
