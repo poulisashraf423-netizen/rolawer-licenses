@@ -3,7 +3,7 @@
     "ROLAWER-MMFA-KB2E-AFVB": {
       "office_id": "office_4bca4035",
       "type": "daily",
-      "status": "used",
+      "status": "revoked",
       "created_at": "2026-11-26T01:05:08.280398",
       "used_at": "2026-11-26T01:05:24.653857",
       "used_by_device": "manual-mark-by-admin",
@@ -14,7 +14,8 @@
       "clients_count": 50,
       "max_devices": 1,
       "office_name": "",
-      "note": " [تم التعليم يدوياً كمستخدم]"
+      "note": " [تم التعليم يدوياً كمستخدم]",
+      "_prev_status": "used"
     },
     "ROLAWER-8ET2-Q5AN-H4NK": {
       "office_id": "office_fa5bf079",
@@ -67,9 +68,9 @@
   },
   "offices": {
     "office_4bca4035": {
-      "expiry_date": "2026-11-27T01:05:24.653857",
+      "expiry_date": "2000-01-01",
       "type": "daily",
-      "status": "active",
+      "status": "revoked",
       "devices": [],
       "max_devices": 1,
       "clients_count": 50,
