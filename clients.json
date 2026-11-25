@@ -3,18 +3,18 @@
     "ROLAWER-9GWU-GS3R-HV6X": {
       "office_id": "office_e69928eb",
       "type": "lifetime",
-      "status": "unused",
+      "status": "used",
       "created_at": "2026-11-25T19:52:01.301468",
-      "used_at": null,
-      "used_by_device": null,
-      "used_by_hwid": null,
+      "used_at": "2026-11-25T23:42:17.351056",
+      "used_by_device": "manual-mark-by-admin",
+      "used_by_hwid": "manual-mark-by-admin",
       "expires_at": null,
       "plan": "Single",
       "plan_key": "single",
       "clients_count": 50,
       "max_devices": 1,
       "office_name": "رافت",
-      "note": ""
+      "note": " [تم التعليم يدوياً كمستخدم]"
     },
     "ROLAWER-MBHU-5SBH-UEMP": {
       "office_id": "office_153aa1e1",
@@ -51,9 +51,9 @@
   },
   "offices": {
     "office_e69928eb": {
-      "expiry_date": "pending",
+      "expiry_date": "lifetime",
       "type": "lifetime",
-      "status": "pending",
+      "status": "active",
       "devices": [],
       "max_devices": 1,
       "clients_count": 50,
