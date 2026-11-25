@@ -1,22 +1,5 @@
 {
   "keys": {
-    "ROLAWER-MMFA-KB2E-AFVB": {
-      "office_id": "office_4bca4035",
-      "type": "daily",
-      "status": "revoked",
-      "created_at": "2026-11-26T01:05:08.280398",
-      "used_at": "2026-11-26T01:05:24.653857",
-      "used_by_device": "manual-mark-by-admin",
-      "used_by_hwid": "manual-mark-by-admin",
-      "expires_at": "2026-11-27T01:05:24.653857",
-      "plan": "Single",
-      "plan_key": "single",
-      "clients_count": 50,
-      "max_devices": 1,
-      "office_name": "",
-      "note": " [تم التعليم يدوياً كمستخدم]",
-      "_prev_status": "used"
-    },
     "ROLAWER-8ET2-Q5AN-H4NK": {
       "office_id": "office_fa5bf079",
       "type": "daily",
@@ -67,18 +50,6 @@
     }
   },
   "offices": {
-    "office_4bca4035": {
-      "expiry_date": "2000-01-01",
-      "type": "daily",
-      "status": "revoked",
-      "devices": [],
-      "max_devices": 1,
-      "clients_count": 50,
-      "plan": "Single",
-      "plan_key": "single",
-      "office_name": "",
-      "key": "ROLAWER-MMFA-KB2E-AFVB"
-    },
     "office_fa5bf079": {
       "expiry_date": "pending",
       "type": "daily",
