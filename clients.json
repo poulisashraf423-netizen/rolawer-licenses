@@ -1,21 +1,5 @@
 {
   "keys": {
-    "ROLAWER-2EJU-PM3C-VV2U": {
-      "office_id": "office_67c92f15",
-      "type": "daily",
-      "status": "used",
-      "created_at": "2026-11-26T03:49:51.193916",
-      "used_at": "2026-11-26T03:54:15.788163",
-      "used_by_device": "ADMIN_LOCK",
-      "used_by_hwid": "ADMIN_LOCK",
-      "expires_at": "2026-11-27T03:50:34.234800",
-      "plan": "Single",
-      "plan_key": "single",
-      "clients_count": 50,
-      "max_devices": 1,
-      "office_name": "",
-      "note": ""
-    },
     "ROLAWER-9W27-299D-WGDP": {
       "office_id": "office_059eb9be",
       "type": "daily",
@@ -66,20 +50,6 @@
     }
   },
   "offices": {
-    "office_67c92f15": {
-      "expiry_date": "2026-11-27T03:50:34.234800",
-      "type": "daily",
-      "status": "locked",
-      "devices": [
-        "0715d3fffbf4ea35"
-      ],
-      "max_devices": 1,
-      "clients_count": 50,
-      "plan": "Single",
-      "plan_key": "single",
-      "office_name": "",
-      "key": "ROLAWER-2EJU-PM3C-VV2U"
-    },
     "office_059eb9be": {
       "expiry_date": "2026-11-27T03:56:29.497861",
       "type": "daily",
