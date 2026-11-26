@@ -35,12 +35,12 @@
     "ROLAWER-56B5-RBYY-9DMU": {
       "office_id": "office_8e8cb11c",
       "type": "daily",
-      "status": "unused",
+      "status": "used",
       "created_at": "2026-11-26T03:58:40.160359",
-      "used_at": null,
-      "used_by_device": null,
-      "used_by_hwid": null,
-      "expires_at": "2026-11-27T03:58:40.160359",
+      "used_at": "2026-11-26T04:05:17.811720",
+      "used_by_device": "0715d3fffbf4ea35",
+      "used_by_hwid": "0715d3fffbf4ea35",
+      "expires_at": "2026-11-27T04:05:17.811740",
       "plan": "Single",
       "plan_key": "single",
       "clients_count": 50,
@@ -77,10 +77,12 @@
       "key": "ROLAWER-YYVD-5BL6-C9NT"
     },
     "office_8e8cb11c": {
-      "expiry_date": "2026-11-27T03:58:40.160359",
+      "expiry_date": "2026-11-27T04:05:17.811740",
       "type": "daily",
-      "status": "pending",
-      "devices": [],
+      "status": "active",
+      "devices": [
+        "0715d3fffbf4ea35"
+      ],
       "max_devices": 1,
       "clients_count": 50,
       "plan": "Single",
