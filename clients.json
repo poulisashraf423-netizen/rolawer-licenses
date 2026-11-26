@@ -5,10 +5,10 @@
       "type": "daily",
       "status": "used",
       "created_at": "2026-11-26T03:39:17.951337",
-      "used_at": "2026-11-26T03:39:42.569526",
-      "used_by_device": "manual-mark-by-admin",
-      "used_by_hwid": "manual-mark-by-admin",
-      "expires_at": "2026-11-27T03:39:17.951337",
+      "used_at": "2026-11-26T03:40:41.594168",
+      "used_by_device": "0715d3fffbf4ea35",
+      "used_by_hwid": "0715d3fffbf4ea35",
+      "expires_at": "2026-11-27T03:40:41.594181",
       "plan": "Single",
       "plan_key": "single",
       "clients_count": 50,
@@ -19,10 +19,12 @@
   },
   "offices": {
     "office_67092cd9": {
-      "expiry_date": "2026-11-27T03:39:17.951337",
+      "expiry_date": "2026-11-27T03:40:41.594181",
       "type": "daily",
       "status": "active",
-      "devices": [],
+      "devices": [
+        "0715d3fffbf4ea35"
+      ],
       "max_devices": 1,
       "clients_count": 50,
       "plan": "Single",
