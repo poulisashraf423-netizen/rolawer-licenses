@@ -5,9 +5,9 @@
       "type": "daily",
       "status": "used",
       "created_at": "2026-11-26T03:49:51.193916",
-      "used_at": "2026-11-26T03:50:34.234722",
-      "used_by_device": "0715d3fffbf4ea35",
-      "used_by_hwid": "0715d3fffbf4ea35",
+      "used_at": "2026-11-26T03:54:15.788163",
+      "used_by_device": "ADMIN_LOCK",
+      "used_by_hwid": "ADMIN_LOCK",
       "expires_at": "2026-11-27T03:50:34.234800",
       "plan": "Single",
       "plan_key": "single",
@@ -21,7 +21,7 @@
     "office_67c92f15": {
       "expiry_date": "2026-11-27T03:50:34.234800",
       "type": "daily",
-      "status": "active",
+      "status": "locked",
       "devices": [
         "0715d3fffbf4ea35"
       ],
