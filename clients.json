@@ -47,6 +47,22 @@
       "max_devices": 1,
       "office_name": "",
       "note": ""
+    },
+    "ROLAWER-J93N-AJ58-65UU": {
+      "office_id": "office_ca99a6ce",
+      "type": "daily",
+      "status": "unused",
+      "created_at": "2026-11-26T02:35:44.292590",
+      "used_at": null,
+      "used_by_device": null,
+      "used_by_hwid": null,
+      "expires_at": null,
+      "plan": "Single",
+      "plan_key": "single",
+      "clients_count": 50,
+      "max_devices": 1,
+      "office_name": "",
+      "note": ""
     }
   },
   "offices": {
@@ -85,6 +101,18 @@
       "plan_key": "single",
       "office_name": "",
       "key": "ROLAWER-C4D7-EQZ7-ZDSU"
+    },
+    "office_ca99a6ce": {
+      "expiry_date": "pending",
+      "type": "daily",
+      "status": "pending",
+      "devices": [],
+      "max_devices": 1,
+      "clients_count": 50,
+      "plan": "Single",
+      "plan_key": "single",
+      "office_name": "",
+      "key": "ROLAWER-J93N-AJ58-65UU"
     }
   }
 }
